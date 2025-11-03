@@ -1,1 +1,9 @@
-HI my name is deepak
+HI my name is Deepak
+
+Create
+clone
+navigate
+create 
+edit save
+git add .
+ my seocmd commmit
